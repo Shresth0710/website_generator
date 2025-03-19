@@ -1,0 +1,6 @@
+app:
+  name: website_generator
+  author: Shresth
+  version: v1.0
+  description: A service that generates and serves websites based on user prompts using AI
+  target_app_lang: py 
